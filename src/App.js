@@ -15,28 +15,27 @@ import Contact from './contents/Contact';
 
 function App() {
   return (
-    <Router>
-    <div className="App">
-    <Navbar />
-    <Route exact path="/">
-    <Home />
-    </Route>
-    <Route path="/about">
-    <About />
-    </Route>
-    <Route path="/education">
-    <Education />
-    </Route>
-    <Route path="/skills">
-    <Skills />
-    </Route>
-    <Route path="/contact">
-    <Contact />
-    </Route>
-    </div>
+    <Router basename="/react_portfolio">
+      <div className="App">
+        <Navbar />
+        <Route exact path="/">
+          <Home />
+        </Route>
+        <Route path="/about">
+          <About />
+        </Route>
+        <Route path="/education">
+          <Education />
+        </Route>
+        <Route path="/skills">
+          <Skills />
+        </Route>
+        <Route path="/contact">
+          <Contact />
+        </Route>
+      </div>
     </Router>
-    );
-  }
-  
-  export default App;
-  
+  );
+}
+
+export default App;

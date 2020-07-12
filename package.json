@@ -17,7 +17,7 @@
     "react-typing-effect": "^2.0.2"
   },
   "scripts": {
-    "predeploy": "mpm run build",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
@@ -39,5 +39,5 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://github.com/jaboyd0/react_portfolio"
+  "homepage": "https://jaboyd0.github.io/react_portfolio"
 }
