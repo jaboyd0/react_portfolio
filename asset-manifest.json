@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/jaboyd0/react_portfolio/static/css/main.d0acee29.chunk.css",
+    "main.js": "/jaboyd0/react_portfolio/static/js/main.56b2d73b.chunk.js",
+    "main.js.map": "/jaboyd0/react_portfolio/static/js/main.56b2d73b.chunk.js.map",
+    "runtime-main.js": "/jaboyd0/react_portfolio/static/js/runtime-main.c53115c2.js",
+    "runtime-main.js.map": "/jaboyd0/react_portfolio/static/js/runtime-main.c53115c2.js.map",
+    "static/js/2.c860595b.chunk.js": "/jaboyd0/react_portfolio/static/js/2.c860595b.chunk.js",
+    "static/js/2.c860595b.chunk.js.map": "/jaboyd0/react_portfolio/static/js/2.c860595b.chunk.js.map",
+    "index.html": "/jaboyd0/react_portfolio/index.html",
+    "precache-manifest.ec70057369b99d24fe8d5e03af4fb987.js": "/jaboyd0/react_portfolio/precache-manifest.ec70057369b99d24fe8d5e03af4fb987.js",
+    "service-worker.js": "/jaboyd0/react_portfolio/service-worker.js",
+    "static/css/main.d0acee29.chunk.css.map": "/jaboyd0/react_portfolio/static/css/main.d0acee29.chunk.css.map",
+    "static/js/2.c860595b.chunk.js.LICENSE": "/jaboyd0/react_portfolio/static/js/2.c860595b.chunk.js.LICENSE",
+    "static/media/IMG_3994.JPG": "/jaboyd0/react_portfolio/static/media/IMG_3994.e2b4f029.JPG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c53115c2.js",
+    "static/js/2.c860595b.chunk.js",
+    "static/css/main.d0acee29.chunk.css",
+    "static/js/main.56b2d73b.chunk.js"
+  ]
+}
